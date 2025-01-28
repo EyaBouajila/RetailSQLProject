@@ -1,4 +1,7 @@
 # RetailSQLProject
+![Screenshot 2025-01-28 223734](https://github.com/user-attachments/assets/9e5db134-7791-472b-b7b3-9d56fc5fe0b4)
+![2](https://github.com/user-attachments/assets/3047a45e-f48a-4803-8d03-c93ebd0fadef)
+
 
 ## A Streamlit-based application for querying a MySQL database of t-shirt inventory using LangChain and Google Generative AI.
 
